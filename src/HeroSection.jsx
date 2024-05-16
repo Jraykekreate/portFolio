@@ -24,7 +24,7 @@ function HeroSection() {
         </div>
         <div className="image-container flex  items-center justify-center md:w-1/2 w-full ">
           <div>
-            <img className="w-96" alt="DevPic" src="./src/assets/herodevpic.jpg"></img>
+            <img className="w-96" alt="DevPic" src="./src/assets/herodevpic.JPG"></img>
           </div>
         </div>
       </div>
