@@ -3,7 +3,7 @@ import { Button, OutlineButton } from "./Button";
 function HeroSection() {
   return (
     <div>
-      <div className="hero container flex flex-col md:flex-row">
+      <div className="hero container mx-auto flex flex-col md:flex-row">
         <div className="text-container md:w-1/2 w-full p-8 font-Raleway text-start">
           <h3 className="text-2xl p-4 text-slate-600">
             Hey, I&apos;m Xaje and I&apos;m a{" "}
