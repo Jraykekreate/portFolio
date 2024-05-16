@@ -27,7 +27,7 @@ function HeroSection() {
             <img
               className="w-96"
               alt="DevPic"
-              src="/assets/herodevpic.jpg"
+              src="/public/herodevpic.jpg"
             ></img>
           </div>
         </div>
