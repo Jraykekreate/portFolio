@@ -24,7 +24,11 @@ function HeroSection() {
         </div>
         <div className="image-container flex  items-center justify-center md:w-1/2 w-full ">
           <div>
-            <img className="w-96" alt="DevPic" src=".public/herodevpic.jpg"></img>
+<<<<<<< Updated upstream
+            <img className="w-96" alt="DevPic" src="public/assets/herodevpic.jpg"></img>
+=======
+            <img className="w-96" src="public/herodevpic.jpg"></img>
+>>>>>>> Stashed changes
           </div>
         </div>
       </div>
