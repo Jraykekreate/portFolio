@@ -9,7 +9,7 @@ function Logo({ displayClass = false }) {
       }
     >
       <span>
-        <img className="w-16" src="dist/public/assets/logo..png"></img>
+        <img className="w-16" src="dist/assets/logo..png"></img>
       </span>
       <span className="text-primaryText p-2 text-3xl font-bold">
         Xaje<span className="text-sm">&#9632;</span>
